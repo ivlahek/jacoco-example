@@ -1,0 +1,1 @@
+set MAVEN_OPTS=-javaagent:C:\Users\Igor\.m2\repository\org\jacoco\org.jacoco.agent\0.7.0.201403182114\org.jacoco.agent-0.7.0.201403182114-runtime.jar=destfile=C:\Users\Igor\git\jacoco\target\jacoco-it.exec,dumponexit=false
